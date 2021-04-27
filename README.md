@@ -13,6 +13,8 @@ To run this project entirely (front-end and back-end) run the following command 
 
 This will run the project with "concurrently". See the package.json for more details.
 
+If you want to run only the front-end part, follow the procedures down below.
+
 In the project directory, you can run:
 
 ### `npm start`
